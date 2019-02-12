@@ -20,7 +20,7 @@ $ant
 $java -jar target/hello-world-all-1.0-SNAPSHOT.jar
 ```
 ![Successful Execution](images/java-jar-ant.png)
-#### Links to build.xml and ivy.xml
+#### Links to build\.xml and ivy\.xml
 * [hello-world/build.xml](hello-world/build.xml)
 * [hello-world/ivy.xml](hello-world/ivy.xml) files.
 
@@ -37,7 +37,7 @@ $mvn clean package
 $java -jar target/hello-world-1.0-SNAPSHOT-jar-with-dependencies.jar
 ```
 ![Successful Execution](images/java-jar-mvn.png)
-#### Link to pom.xml
+#### Link to pom\.xml
 * [hello-world/pom.xml](hello-world/pom.xml)
 
 # Gradle [30 pts]
@@ -54,5 +54,5 @@ $gradle clean fatJar
 $java -jar build/libs/hello-world-all-1.0-SNAPSHOT.jar
 ```
 ![Successful Execution](images/java-jar-gradle.png)
-#### Link to build.gradle
+#### Link to build\.gradle
 * [hello-world/build.gradle](hello-world/build.gradle)
