@@ -1,8 +1,7 @@
 
 ## SE441 - HW4
-Author | Nardos Tessema
--------|----------------
-ID | 1941511
+> ### Author: Nardos Tessema
+> ### ID: 1941511
 ------------------------
 
 ## Ant+Ivy [40 pts]
